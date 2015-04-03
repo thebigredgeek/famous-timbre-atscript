@@ -19,7 +19,7 @@
   "homepage": "https://github.com/thebigredgeek/famous-timbre-atscript",
   "jspm": {
     "dependencies": {
-      "famous": "^0.3.4"
+      "famous": "github:Famous/famous@^0.3.5"
     }
   },
   "devDependencies": {
